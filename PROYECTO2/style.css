@@ -1,0 +1,85 @@
+
+body{
+    background-color: beige;
+}
+
+.Origen{
+    padding-left: 60px ;
+
+
+ 
+}
+.Portada{
+    background-color: beige;
+    font-size: 20px;
+    color: rgb(230, 141, 90);
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Menu{
+color:rgb(24, 137, 182) ;
+text-align: center;
+font-family: 'Times New Roman', Times, serif; 
+}
+#Tabla{
+    table-layout:fixed;
+    width: 100%;
+    border-collapse:collapse ;
+    border: 3px solid gray  ;
+}
+
+
+
+#div1{
+    
+    text-align: justify;
+
+    height: 100%;
+    padding: 40px;
+    margin: 5px;
+ 
+}
+
+#div2{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    height: 100%;
+    padding: 20px 5px 20px 20px;
+    margin: 5px; 
+    display: block;
+}
+
+#h1{
+    text-align: center;
+    color: rgb(201, 89, 89);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:be;
+}
+#h3{
+    text-align: center;
+    color: rgb(37, 132, 161);
+}
+
+#div3{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    height: 100%;
+    padding: 10px 10px 20px 10px;
+
+    margin: 5px;
+
+}
+#div4{
+    text-align: justify;
+
+    height: 100%;
+    padding: 10px;
+ 
+    margin: 5px;
+
+}
+
